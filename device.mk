@@ -15,7 +15,7 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-mokee
 
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-lineage/frameworks/base/packages/SystemUI
+    $(LOCAL_PATH)/overlay-mokee/frameworks/base/packages/SystemUI
 
 # Audio
 PRODUCT_COPY_FILES += \
